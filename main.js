@@ -5179,7 +5179,7 @@ var author$project$View$viewHeader = A2(
 			_List_Nil,
 			_List_fromArray(
 				[
-					elm$html$Html$text('Roll your rol dice!')
+					elm$html$Html$text('Roll your role dice!')
 				])),
 			author$project$View$viewInstructions
 		]));
