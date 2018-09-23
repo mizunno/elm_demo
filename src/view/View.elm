@@ -32,7 +32,7 @@ viewDice model num =
 viewHeader : Html Msg
 viewHeader =
     div [id "header"] [
-        h1 [] [ text "Roll your rol dice!" ]
+        h1 [] [ text "Roll your role dice!" ]
       , viewInstructions
     ]
 
